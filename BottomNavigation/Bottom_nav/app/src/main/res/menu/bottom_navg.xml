@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:id="@+id/home"
+            android:title="Home"
+            
+            android:icon="@drawable/baseline_home_24"/>
+        <item android:id="@+id/info"
+            android:title="information"
+            android:icon="@drawable/baseline_info_24"/>
+        <item android:id="@+id/trending"
+            android:title="trending"
+            android:icon="@drawable/baseline_trending_up_24"/>
+        <item android:id="@+id/Settings"
+            android:title="Settings"
+            android:icon="@drawable/baseline_settings_24"/>
+
+
+    </group>
+
+
+</menu>
